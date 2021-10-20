@@ -8,5 +8,24 @@
 </head>
 <body>
     
-</body>
+</body>n="3"><strong>Form Login</strong></td>
+			</tr>
+			<tr>
+				<td>Username</td>
+				<td>:</td>
+				<td><input name="username" type="text" id="username"/>
+				</td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td>:</td>
+				<td><input name="password" type="password" id="password"/></td>
+			</tr>
+			<tr>
+				<td><input type="submit" name="Submit" value="Login"/></td>
+			</tr>
+		</form>
+		</table>
+	</head>
+</html>
 </html>
